@@ -46,16 +46,14 @@ Motivée et curieuse, je souhaite mettre mes compétences en pratique au sein d'
 
 ---
 
-## 📊 Mes statistiques GitHub
+## 📫 Me contacter
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gomesmalika99-creator&show_icons=true&theme=tokyonight&locale=fr"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmalika99-creator&layout=compact&theme=tokyonight&locale=fr"/>
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/malika-gomes-57736535b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gomesmalika99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-
-## 📫 Me contacter
 
 <div align="center">
 

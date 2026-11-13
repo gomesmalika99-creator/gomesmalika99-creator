@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Bonjour%2C+je+suis+Malika+Houkad+%F0%9F%91%8B;Technicienne+Syst%C3%A8mes+%26+R%C3%A9seaux;Passionn%C3%A9e+de+Cybers%C3%A9curit%C3%A9+%F0%9F%94%92;Disponible+pour+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=38&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&height=70&lines=Bonjour%2C+je+suis+Malika+Houkad+%F0%9F%91%8B;Technicienne+Syst%C3%A8mes+%26+R%C3%A9seaux;Passionn%C3%A9e+de+Cybers%C3%A9curit%C3%A9+%F0%9F%94%92;Disponible+pour+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
 
 🔹 **Technicienne Systèmes & Réseaux** | Windows Server · Linux · Cisco · Cybersécurité
 

@@ -18,7 +18,7 @@ Technicienne Systèmes & Réseaux en reconversion, actuellement en formation **T
 
 Après une première expérience comme **infirmière**, puis dans la **vente en optique**, j'ai choisi de me tourner vers l'informatique, un domaine qui me passionne. Ces expériences m'ont apporté des qualités que je mets aujourd'hui au service de l'IT :
 
-> ✅ Rigueur · ✅ Sens du service · ✅ Gestion du stress · ✅ Relation client
+
 
 Motivée et curieuse, je souhaite mettre mes compétences en pratique au sein d'une équipe IT et continuer à progresser, notamment en **cybersécurité**.
 

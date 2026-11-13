@@ -1,8 +1,8 @@
-# Bonjour, je suis Malika Gomes 👋
+# Bonjour, je suis Malika Houkad 👋
 
 ### 🔹 Technicienne Systèmes & Réseaux | Windows Server · Linux · Cisco · Cybersécurité
 
-📍 France · 🎓 Formation TSSR spécialisation cybersécurité chez **Simplon** · 💼 Ouverte aux opportunités
+📍 France · 🎓 Formation TSSR spécialisation cybersécurité chez **Simplon** · 
 
 ---
 
@@ -31,22 +31,6 @@ Motivée et curieuse, je souhaite mettre mes compétences en pratique au sein d'
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-## 💼 Expérience
-
-| Poste | Entreprise | Début | Lieu |
-|---|---|---|---|
-| Vendeuse | Ella optique (CDD) | oct. 2024 | Paris, France |
-| Infirmière | Clinique El Massira (CDD) | févr. 2022 | Agadir, Maroc |
-| Vendeuse | FLORMAR (CDD) | févr. 2019 | Agadir, Maroc |
-
-## 🎓 Formation
-
-- **TSSR – spécialisation cybersécurité** · Simplon *(en cours)*
-- **Développement iOS – Swift / SwiftUI** · Formation Apple – Simplon
-
-## 🌍 Langues
-
-Arabe · Français · Anglais (B1)
 
 ## 📫 Me contacter
 

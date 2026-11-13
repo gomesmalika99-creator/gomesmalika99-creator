@@ -1,8 +1,14 @@
-# Bonjour, je suis Malika Houkad 👋
+<div align="center">
 
-### 🔹 Technicienne Systèmes & Réseaux | Windows Server · Linux · Cisco · Cybersécurité
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Bonjour%2C+je+suis+Malika+Houkad+%F0%9F%91%8B;Technicienne+Syst%C3%A8mes+%26+R%C3%A9seaux;Passionn%C3%A9e+de+Cybers%C3%A9curit%C3%A9+%F0%9F%94%92;Disponible+pour+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
 
-📍 France · 🎓 Formation TSSR spécialisation cybersécurité chez **Simplon** · 
+🔹 **Technicienne Systèmes & Réseaux** | Windows Server · Linux · Cisco · Cybersécurité
+
+📍 France · 🎓 Formation TSSR spécialisation cybersécurité chez Simplon
+
+![Open to work](https://img.shields.io/badge/🚀_Disponible-Alternance_/_Stage-success?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -10,29 +16,49 @@
 
 Technicienne Systèmes & Réseaux en reconversion, actuellement en formation **TSSR spécialisation cybersécurité** chez Simplon.
 
-Après une première expérience comme infirmière, puis dans la vente en optique, j'ai choisi de me tourner vers l'informatique, un domaine qui me passionne. Ces expériences m'ont apporté des qualités que je mets aujourd'hui au service de l'IT : **rigueur, sens du service, gestion du stress et relation client**.
+Après une première expérience comme **infirmière**, puis dans la **vente en optique**, j'ai choisi de me tourner vers l'informatique, un domaine qui me passionne. Ces expériences m'ont apporté des qualités que je mets aujourd'hui au service de l'IT :
 
-Motivée et curieuse, je souhaite mettre mes compétences en pratique au sein d'une équipe IT et continuer à progresser, notamment en cybersécurité.
+> ✅ Rigueur · ✅ Sens du service · ✅ Gestion du stress · ✅ Relation client
+
+Motivée et curieuse, je souhaite mettre mes compétences en pratique au sein d'une équipe IT et continuer à progresser, notamment en **cybersécurité**.
+
+---
 
 ## 🛠️ Compétences techniques
 
-- 🖥️ Administration de serveurs **Windows Server** et **Linux**
-- 🌐 Configuration de routeurs et switchs (**Cisco**, **Mikrotik**)
+<p align="left">
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+- 🖥️ Administration de serveurs Windows Server et Linux
+- 🌐 Configuration de routeurs et switchs (Cisco, Mikrotik)
 - 🔒 Sécurité des réseaux : pare-feu, VPN, bonnes pratiques de cybersécurité
-- ☁️ Virtualisation : **VMware**, **Hyper-V**
+- ☁️ Virtualisation : VMware, Hyper-V
 - 🎧 Support utilisateurs et résolution d'incidents
-- 📱 Développement d'applications iOS avec **Swift** et **SwiftUI** (formation Apple – Simplon)
+- 📱 Développement d'applications iOS avec Swift et SwiftUI (formation Apple – Simplon)
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+---
 
+## 📊 Mes statistiques GitHub
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gomesmalika99-creator&show_icons=true&theme=tokyonight&locale=fr"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmalika99-creator&layout=compact&theme=tokyonight&locale=fr"/>
+</div>
+
+---
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malika%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malika-gomes-57736535b)
-[![Email](https://img.shields.io/badge/Email-gomesmalika99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesmalika99@gmail.com)
+<div align="center">
+
+⭐ *Merci de votre visite !* ⭐
+
+</div>
